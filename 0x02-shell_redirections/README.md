@@ -1,3 +1,1 @@
-0x02 Shell Input Output Redirections and filters
-Hello_World
-Hello, World
+0x02Shell Input Output Redirections anf filters
